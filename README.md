@@ -75,22 +75,6 @@ Building and automating cloud-native infrastructure with Docker, Kubernetes, and
 
 
 
-<img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Engr-Mohsin-Kazmi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
-
----
 
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
