@@ -75,12 +75,6 @@ Building and automating cloud-native infrastructure with Docker, Kubernetes, and
 
 
 
-<img src="https://img.shields.io/badge/ACHIEVEMENTS-F59E0B?style=for-the-badge&logo=trophy&logoColor=white" />
-
-![Gold Medal](https://img.shields.io/badge/Presidential%20Gold%20Medalist%202023-Pakistan%20Boy%20Scouts%20Association-FFD700?style=for-the-badge&logo=medal&logoColor=black)
-
----
-
 <img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
