@@ -24,15 +24,12 @@ I'm a passionate DevOps Engineer specializing in containerization, CI/CD automat
 <img src="https://img.shields.io/badge/EDUCATION-1e293b?style=for-the-badge&logo=mortarboard&logoColor=white" />
 
 **Bachelors In Computer Sciences**
-2020-2024
+| 2020-2024
 
 ---
 
 <img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logo=ribbon&logoColor=white" />
 
-![AL NAFI](https://img.shields.io/badge/Diploma%20in%20DevOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-2496ED?style=flat-square&logo=icloud&logoColor=white)
-
-![AL NAFI](https://img.shields.io/badge/Diploma%20in%20SysOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-326CE5?style=flat-square&logo=serverless&logoColor=white)
 
 ---
 
@@ -81,91 +78,7 @@ Building and automating cloud-native infrastructure with Docker, Kubernetes, and
 
 ### ![Project](https://img.shields.io/badge/01-AI%20Powered%20Web%20Application%20Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Technologies:** Docker, Docker Compose, Linux, Nginx, Git, Cloud VM
 
-A production-grade deployment of an AI-powered web application on cloud infrastructure.
-- Containerized frontend and backend applications using Docker with separate Dockerfiles
-- Orchestrated multi-container setup using Docker Compose for service communication
-- Configured reverse proxy using Nginx for secure routing
-- Deployed on a Linux cloud server with production configuration
-- Implemented environment-based configuration management
-- Ensured zero-downtime restarts using container lifecycle management
-
----
-
-### ![Project](https://img.shields.io/badge/02-Full%20Stack%20App%20Containerization%20%26%20Local%20Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Technologies:** Docker, Docker Compose, Node.js, Python, Linux
-
-- Designed container strategy for multi-service architecture
-- Built optimized Docker images with multi-stage builds
-- Managed inter-container communication through Docker networks
-- Implemented volume mapping for persistent data storage
-- Automated local development environment setup using Docker Compose
-- Reduced environment inconsistency issues through container standardization
-
----
-
-### ![Project](https://img.shields.io/badge/03-Secure%20Linux%20Server%20Deployment%20%26%20Access%20Management-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Technologies:** Ubuntu Server, SSH, User Management, Firewall
-
-- Configured production Linux server for application hosting
-- Disabled direct root access and implemented secure user-based access control
-- Generated and deployed SSH key-based authentication
-- Configured firewall rules to restrict unauthorized access
-- Implemented server hardening best practices
-- Structured deployment under non-root DevOps user for security compliance
-
----
-
-### ![Project](https://img.shields.io/badge/04-CI%2FCD%20Pipeline%20Implementation-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Technologies:** Git, GitHub, CI/CD Tools, Linux
-
-- Designed automated CI/CD workflow for application deployment
-- Integrated version control triggers for automatic build and deployment
-- Implemented build validation before deployment to production
-- Automated container rebuild and restart process
-- Reduced manual deployment effort and minimized human error
-- Enabled faster release cycles through automation
-
----
-
-### ![Project](https://img.shields.io/badge/05-Production%20Monitoring%20%26%20Debugging-009639?style=flat-square&logo=grafana&logoColor=white)
-
-**Technologies:** Docker Logs, Linux Monitoring Tools
-
-- Diagnosed container startup failures and networking issues
-- Monitored resource usage including CPU and memory utilization
-- Resolved inter-service communication errors
-- Performed real-time log analysis for backend services
-- Improved system reliability through proactive troubleshooting
-
----
-
-### ![Project](https://img.shields.io/badge/06-Cloud%20Based%20Application%20Deployment-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Technologies:** Cloud VM, Docker, Nginx, Linux
-
-- Deployed multi-service web application on cloud infrastructure
-- Configured domain routing and reverse proxy setup
-- Managed environment variables securely
-- Performed post-deployment validation and performance testing
-- Ensured scalability readiness for future horizontal scaling
-
----
-
-### ![Project](https://img.shields.io/badge/07-Infrastructure%20Planning%20for%20Scalable%20Systems-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Technologies:** Cloud Architecture, Load Balancing Concepts
-
-- Designed scalable deployment architecture for high-traffic applications
-- Planned horizontal scaling strategy using container-based infrastructure
-- Proposed load-balanced architecture for performance optimization
-- Improved system availability and fault tolerance planning
-
----
 
 <img src="https://img.shields.io/badge/ACHIEVEMENTS-F59E0B?style=for-the-badge&logo=trophy&logoColor=white" />
 
@@ -194,9 +107,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 <p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmohsin9201@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohsinkazmi/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923109294201)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanad3768@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923046864478)
 
 </p>
 
