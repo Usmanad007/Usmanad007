@@ -92,7 +92,7 @@ Building and automating cloud-native infrastructure with Docker, Kubernetes, and
 
 ---
 
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 <p align="center">
 
