@@ -28,8 +28,6 @@ I'm a passionate DevOps Engineer specializing in containerization, CI/CD automat
 
 ---
 
----
-
 <img src="https://img.shields.io/badge/TECH%20STACK-0F172A?style=for-the-badge&logo=stackshare&logoColor=white" />
 
 **Operating Systems & Shell**
