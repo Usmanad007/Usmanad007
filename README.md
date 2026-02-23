@@ -63,7 +63,7 @@ I'm a passionate DevOps Engineer specializing in containerization, CI/CD automat
 
 <img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" />
 
-Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines — focusing on scalability, security, and zero-downtime deployments.
+Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines focusing on scalability, security, and zero-downtime deployments.
 
 ![Upskilling](https://img.shields.io/badge/Upskilling%20In-Terraform%20%7C%20Ansible%20%7C%20Kubernetes%20%7C%20Major%20DevOps%20Tools-F59E0B?style=flat-square&logo=bookstack&logoColor=white)
 
