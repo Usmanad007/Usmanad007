@@ -1,72 +1,11 @@
+<div align="center">
 
-
-    <g stroke="#38bdf8" stroke-width="1" fill="none" opacity="0.12">
-      <polyline points="20,40 60,40 60,80 110,80"/><circle cx="110" cy="80" r="2.5" fill="#38bdf8"/>
-      <polyline points="20,100 40,100 40,140 90,140"/><circle cx="90" cy="140" r="2.5" fill="#38bdf8"/>
-      <polyline points="20,170 50,170 50,210 100,210"/><circle cx="100" cy="210" r="2.5" fill="#38bdf8"/>
-      <polyline points="60,220 60,250 130,250"/>
-    </g>
-    <g stroke="#a78bfa" stroke-width="1" fill="none" opacity="0.12">
-      <polyline points="880,40 840,40 840,80 790,80"/><circle cx="790" cy="80" r="2.5" fill="#a78bfa"/>
-      <polyline points="880,100 860,100 860,140 810,140"/><circle cx="810" cy="140" r="2.5" fill="#a78bfa"/>
-      <polyline points="880,170 850,170 850,210 800,210"/><circle cx="800" cy="210" r="2.5" fill="#a78bfa"/>
-      <polyline points="840,220 840,250 770,250"/>
-    </g>
-
-    <ellipse cx="130" cy="130" rx="220" ry="160" fill="url(#orb1)"/>
-    <ellipse cx="770" cy="130" rx="200" ry="150" fill="url(#orb2)"/>
-    <ellipse cx="450" cy="20"  rx="160" ry="100" fill="url(#orb3)"/>
-    <ellipse cx="450" cy="260" rx="180" ry="90"  fill="url(#orb4)"/>
-
-    <path d="M 0 40 L 0 0 L 40 0"       stroke="#38bdf8" stroke-width="1.8" fill="none" opacity="0.7"/>
-    <path d="M 860 0 L 900 0 L 900 40"  stroke="#38bdf8" stroke-width="1.8" fill="none" opacity="0.7"/>
-    <path d="M 0 220 L 0 260 L 40 260"  stroke="#34d399" stroke-width="1.8" fill="none" opacity="0.5"/>
-    <path d="M 860 260 L 900 260 L 900 220" stroke="#34d399" stroke-width="1.8" fill="none" opacity="0.5"/>
-
-    <rect x="0" y="0" width="900" height="3" fill="url(#topBar)"/>
-
-    <circle cx="328" cy="58" r="4.5" fill="#34d399">
-      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="328" cy="58" r="10" fill="#34d399" opacity="0.12">
-      <animate attributeName="r"       values="6;13;6"      dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.12;0;0.12" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="341" y="63" font-family="'Courier New', monospace" font-size="11"
-          fill="#34d399" opacity="0.9" letter-spacing="1.5">Available for Opportunities</text>
-
-    <text x="450" y="158"
-      font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-      font-size="60" font-weight="900" text-anchor="middle"
-      fill="url(#nameGrad)" filter="url(#glowName)" letter-spacing="-1.5">
-      Muhammad Usman
-      <animateTransform attributeName="transform" type="translate"
-        from="700 0" to="0 0" dur="1.5s" fill="freeze"
-        calcMode="spline" keySplines="0.16 1 0.3 1"/>
-      <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/>
-    </text>
-
-    <rect x="240" y="173" width="420" height="1" fill="url(#accentLine)"/>
-
-    <text x="450" y="198" font-family="'Courier New', monospace" font-size="13"
-      text-anchor="middle" fill="#94a3b8" letter-spacing="5">
-      DEVOPS  &amp;  CLOUD  ENGINEER
-      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.9s" fill="freeze"/>
-    </text>
-
-    <text x="450" y="224" font-family="'Courier New', monospace" font-size="10"
-      text-anchor="middle" fill="#475569" letter-spacing="2">
-      Pakistan  ·  BSc Computer Sciences — University of Okara, 2024
-      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.2s" fill="freeze"/>
-    </text>
-
-    <rect x="0" y="257" width="900" height="3" fill="url(#topBar)" opacity="0.4"/>
-  </g>
-</svg>
+<!-- Animated Banner Style Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:2496ED,100:326CE5&height=200&section=header&text=Muhammad%20Usman%20&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automation&descAlignY=58&descSize=18&descColor=c9d1d9" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code+Engineer;CI%2FCD+Pipeline+Architect;Cloud+%26+Container+Specialist;Linux+%7C+Docker+%7C+AWS+%7C+GitHub+Actions;Building+Scalable+%26+Secure+Systems)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Engineer;CI%2FCD+Pipeline+Architect;Cloud+%26+Container+Specialist;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Building+Scalable+%26+Secure+Systems)
 
 <br/>
 
@@ -74,18 +13,26 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00A36C?style=for-the-badge&logo=handshake&logoColor=white)
 ![Pakistan](https://img.shields.io/badge/Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-</div>
-
 <br/>
 
-I am a passionate **DevOps & Cloud Engineer** specializing in containerization, CI/CD automation, cloud infrastructure, and scalable system design. I bridge the gap between development and operations through clean automation and modern DevOps practices.
+</div>
+
+I'm a passionate DevOps Engineer specializing in containerization, CI/CD automation, cloud infrastructure, and scalable system design. I love bridging the gap between development and operations through clean automation and modern DevOps practices.
 
 ---
 
-<img src="https://img.shields.io/badge/EDUCATION-1e293b?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/EDUCATION-1e293b?style=for-the-badge&logo=mortarboard&logoColor=white" />
 
-**Bachelor of Computer Sciences**
-University of Okara &nbsp;|&nbsp; 2024
+**Bachelors In Computer Sciences**
+2020-2024
+
+---
+
+<img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logo=ribbon&logoColor=white" />
+
+![AL NAFI](https://img.shields.io/badge/Diploma%20in%20DevOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-2496ED?style=flat-square&logo=icloud&logoColor=white)
+
+![AL NAFI](https://img.shields.io/badge/Diploma%20in%20SysOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-326CE5?style=flat-square&logo=serverless&logoColor=white)
 
 ---
 
@@ -94,7 +41,6 @@ University of Okara &nbsp;|&nbsp; 2024
 **Operating Systems & Shell**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Version Control**
@@ -105,14 +51,17 @@ University of Okara &nbsp;|&nbsp; 2024
 **Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Cloud Platforms**
 
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **CI/CD & Automation**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Web & Networking**
 
@@ -120,18 +69,122 @@ University of Okara &nbsp;|&nbsp; 2024
 
 ---
 
+<img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" />
+
+Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines — focusing on scalability, security, and zero-downtime deployments.
+
+![Upskilling](https://img.shields.io/badge/Upskilling%20In-Terraform%20%7C%20Ansible%20%7C%20Kubernetes%20%7C%20Major%20DevOps%20Tools-F59E0B?style=flat-square&logo=bookstack&logoColor=white)
+
+---
+
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-10B981?style=for-the-badge&logo=github&logoColor=white" />
+
+### ![Project](https://img.shields.io/badge/01-AI%20Powered%20Web%20Application%20Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Technologies:** Docker, Docker Compose, Linux, Nginx, Git, Cloud VM
+
+A production-grade deployment of an AI-powered web application on cloud infrastructure.
+- Containerized frontend and backend applications using Docker with separate Dockerfiles
+- Orchestrated multi-container setup using Docker Compose for service communication
+- Configured reverse proxy using Nginx for secure routing
+- Deployed on a Linux cloud server with production configuration
+- Implemented environment-based configuration management
+- Ensured zero-downtime restarts using container lifecycle management
+
+---
+
+### ![Project](https://img.shields.io/badge/02-Full%20Stack%20App%20Containerization%20%26%20Local%20Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Technologies:** Docker, Docker Compose, Node.js, Python, Linux
+
+- Designed container strategy for multi-service architecture
+- Built optimized Docker images with multi-stage builds
+- Managed inter-container communication through Docker networks
+- Implemented volume mapping for persistent data storage
+- Automated local development environment setup using Docker Compose
+- Reduced environment inconsistency issues through container standardization
+
+---
+
+### ![Project](https://img.shields.io/badge/03-Secure%20Linux%20Server%20Deployment%20%26%20Access%20Management-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Technologies:** Ubuntu Server, SSH, User Management, Firewall
+
+- Configured production Linux server for application hosting
+- Disabled direct root access and implemented secure user-based access control
+- Generated and deployed SSH key-based authentication
+- Configured firewall rules to restrict unauthorized access
+- Implemented server hardening best practices
+- Structured deployment under non-root DevOps user for security compliance
+
+---
+
+### ![Project](https://img.shields.io/badge/04-CI%2FCD%20Pipeline%20Implementation-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Technologies:** Git, GitHub, CI/CD Tools, Linux
+
+- Designed automated CI/CD workflow for application deployment
+- Integrated version control triggers for automatic build and deployment
+- Implemented build validation before deployment to production
+- Automated container rebuild and restart process
+- Reduced manual deployment effort and minimized human error
+- Enabled faster release cycles through automation
+
+---
+
+### ![Project](https://img.shields.io/badge/05-Production%20Monitoring%20%26%20Debugging-009639?style=flat-square&logo=grafana&logoColor=white)
+
+**Technologies:** Docker Logs, Linux Monitoring Tools
+
+- Diagnosed container startup failures and networking issues
+- Monitored resource usage including CPU and memory utilization
+- Resolved inter-service communication errors
+- Performed real-time log analysis for backend services
+- Improved system reliability through proactive troubleshooting
+
+---
+
+### ![Project](https://img.shields.io/badge/06-Cloud%20Based%20Application%20Deployment-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Technologies:** Cloud VM, Docker, Nginx, Linux
+
+- Deployed multi-service web application on cloud infrastructure
+- Configured domain routing and reverse proxy setup
+- Managed environment variables securely
+- Performed post-deployment validation and performance testing
+- Ensured scalability readiness for future horizontal scaling
+
+---
+
+### ![Project](https://img.shields.io/badge/07-Infrastructure%20Planning%20for%20Scalable%20Systems-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Technologies:** Cloud Architecture, Load Balancing Concepts
+
+- Designed scalable deployment architecture for high-traffic applications
+- Planned horizontal scaling strategy using container-based infrastructure
+- Proposed load-balanced architecture for performance optimization
+- Improved system availability and fault tolerance planning
+
+---
+
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-F59E0B?style=for-the-badge&logo=trophy&logoColor=white" />
+
+![Gold Medal](https://img.shields.io/badge/Presidential%20Gold%20Medalist%202023-Pakistan%20Boy%20Scouts%20Association-FFD700?style=for-the-badge&logo=medal&logoColor=black)
+
+---
+
 <img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Usmanad007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmanad007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Usmanad007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Engr-Mohsin-Kazmi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
@@ -141,14 +194,12 @@ University of Okara &nbsp;|&nbsp; 2024
 
 <p align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanad3768@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usmanad007)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923046864478)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmohsin9201@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohsinkazmi/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923109294201)
 
 </p>
 
 ---
 
-<div align="center">
-<sub><b>Muhammad Usman</b> &nbsp;·&nbsp; DevOps & Cloud Engineer &nbsp;·&nbsp; Pakistan</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,50:2496ED,100:0A66C2&height=100&section=footer" />
