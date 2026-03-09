@@ -78,14 +78,14 @@ Building and automating cloud-native infrastructure with Docker, Kubernetes, and
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Usmanad007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmanad007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Engr-Mohsin-Kazmi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Usmanad007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
